@@ -6,12 +6,14 @@
 function divide(x,y)
 {
 	//Write your code below this line
+	return x / y;
 	
 }
+console.log(divide(10,5));
 
 function multiply(x,y)
 {
-	
+	return x * y;
 }
 
 function subtract(x,y)
